@@ -1,5 +1,4 @@
 {
-	
   "NFAOrders": [
     {
 	 "id": 1,
@@ -27,9 +26,8 @@
 	 "fflOnFile": false,
 	 "sotOnFile": false,
 	 "form3Status": "Unfiled"
-    },
-  ],
-	
+    }
+],
   "FFLOrders": [
     {
 	 "id": 1,
@@ -54,9 +52,8 @@
 	 "qty": 1,
 	 "fflOnFile": false,
 	 "shipped": false 
-    },
+    }
   ],
-	
   "Inventory": [
     {
 	 "id": 1,
@@ -78,7 +75,6 @@
 	 "sku": "Vox Nyx",
 	 "sn": "asd86f",
 	 "availability": "free" 
-    },
-  ]
-	
+    }
+  ]	
 }
