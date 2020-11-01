@@ -57,21 +57,21 @@
   "Inventory": [
     {
 	 "id": 1,
-	 "itemNumber": 20-12345,
+	 "itemNumber": "20-12345",
 	 "sku": "SP15",
 	 "sn": "asd7086",
 	 "availability": "assigned" 
     },
     {
 	 "id": 2,
-	 "itemNumber": 20-13706,
+	 "itemNumber": "20-13706",
 	 "sku": "2011",
 	 "sn": "0a8scv",
 	 "availability": "free" 
     },
     {
 	 "id": 3,
-	 "itemNumber": 20-15062,
+	 "itemNumber": "20-15062",
 	 "sku": "Vox Nyx",
 	 "sn": "asd86f",
 	 "availability": "free" 
