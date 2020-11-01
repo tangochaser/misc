@@ -1,17 +1,84 @@
 {
+	
   "NFAOrders": [
-    { "id": 1, "orderNumber": 18602, "sku": "Obsidian45", "qty": 1, "fflOnFile": true, "sotOnFile": true, "form3Status": "Pending"},
-    { "id": 2, "orderNumber": 19622, "sku": "R9", "qty": 1, "fflOnFile": false, "sotOnFile": true, "form3Status": "Unfiled"},
-    { "id": 3, "orderNumber": 20202, "sku": "HBSD", "qty": 1, "fflOnFile": false, "sotOnFile": false, "form3Status": "Unfiled"},
-  ],
+    {
+	 "id": 1,
+	 "orderNumber": 18602,
+	 "sku": "Obsidian45",
+	 "qty": 1,
+	 "fflOnFile": true,
+	 "sotOnFile": true,
+	 "form3Status": "Pending"
+    },
+    {
+	 "id": 2,
+	 "orderNumber": 19622,
+	 "sku": "R9",
+	 "qty": 1,
+	 "fflOnFile": false,
+	 "sotOnFile": true,
+	 "form3Status": "Unfiled"
+    },
+    {
+	 "id": 3,
+	 "orderNumber": 20202,
+	 "sku": "HBSD",
+	 "qty": 1,
+	 "fflOnFile": false,
+	 "sotOnFile": false,
+	 "form3Status": "Unfiled"
+    },
+  ]
+	
   "FFLOrders": [
-    { "id": 1, "orderNumber": 18760, "sku": "Canik", "qty": 1, "fflOnFile": true, "shipped": true },
-    { "id": 2, "orderNumber": 19912, "sku": "M107A1", "qty": 1, "fflOnFile": true, "shipped": false },
-    { "id": 3, "orderNumber": 23642, "sku": "VP9", "qty": 1, "fflOnFile": false, "shipped": false },
-  ],
+    {
+	 "id": 1,
+	 "orderNumber": 18760,
+	 "sku": "Canik",
+	 "qty": 1,
+	 "fflOnFile": true,
+	 "shipped": true 
+    },
+    {
+	 "id": 2,
+	 "orderNumber": 19912,
+	 "sku": "M107A1",
+	 "qty": 1,
+	 "fflOnFile": true,
+	 "shipped": false 
+    },
+    {
+	 "id": 3,
+	 "orderNumber": 23642,
+	 "sku": "VP9",
+	 "qty": 1,
+	 "fflOnFile": false,
+	 "shipped": false 
+    },
+  ]
+	
   "Inventory": [
-    { "id": 1, "itemNumber": 20-12345, "sku": "SP15", "sn": "asd7086", "availability": "assigned" },
-    { "id": 2, "itemNumber": 20-13706, "sku": "2011", "sn": "0a8scv", "availability": "free" },
-    { "id": 3, "itemNumber": 20-15062, "sku": "Vox Nyx", "sn": "asd86f", "availability": "free" },
-  ],
+    {
+	 "id": 1,
+	 "itemNumber": 20-12345,
+	 "sku": "SP15",
+	 "sn": "asd7086",
+	 "availability": "assigned" 
+    },
+    {
+	 "id": 2,
+	 "itemNumber": 20-13706,
+	 "sku": "2011",
+	 "sn": "0a8scv",
+	 "availability": "free" 
+    },
+    {
+	 "id": 3,
+	 "itemNumber": 20-15062,
+	 "sku": "Vox Nyx",
+	 "sn": "asd86f",
+	 "availability": "free" 
+    },
+  ]
+	
 }
