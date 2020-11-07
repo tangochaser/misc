@@ -1,7 +1,7 @@
 ***DNS Exfil***
 
-****PacketWhisper.py**** 
-git clone https://github.com/TryCatchHCF/PacketWhisper.git
+****PacketWhisper.py**** \n
+git clone https://github.com/TryCatchHCF/PacketWhisper.git\n
 exfiltrates files via DNS queries 
 
 
