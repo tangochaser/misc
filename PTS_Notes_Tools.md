@@ -1,10 +1,10 @@
 ***DNS Exfil***
 
-****PacketWhisper.py**** \n
-git clone https://github.com/TryCatchHCF/PacketWhisper.git\n
+****PacketWhisper.py****\
+git clone https://github.com/TryCatchHCF/PacketWhisper.git\
 exfiltrates files via DNS queries 
 
 
-****Egresscheck Framework****
-git clone https://github.com/stufus/egresscheck-framework.git
+****Egresscheck Framework****\
+git clone https://github.com/stufus/egresscheck-framework.git\
 Automates egress recon - evaluates firewall rules
